@@ -1,9 +1,12 @@
 [submodule "model-server"]
 	path = model-server
 	url = https://github.com/EmotionKim/UEWeb-model-server.git
+	branch = release
 [submodule "client"]
 	path = client
 	url = https://github.com/EmotionKim/UEWeb-client.git
+	branch = release
 [submodule "api-server"]
 	path = api-server
 	url = https://github.com/EmotionKim/UEWeb-api-server.git
+	branch = release
